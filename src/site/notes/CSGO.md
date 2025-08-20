@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/csgo/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/csgo/"}
 ---
 
 # 精彩时刻
