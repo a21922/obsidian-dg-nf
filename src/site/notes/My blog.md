@@ -1,5 +1,5 @@
 ---
-{"title":"我的博客","dg-publish":true,"dg-home":true,"dg-permalink":"myblog","permalink":"/myblog/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"myblog","permalink":"/myblog/","title":"我的博客","tags":["gardenEntry"]}
 ---
 
 
