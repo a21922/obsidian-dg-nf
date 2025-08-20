@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-permalink":"aayt/csgo","permalink":"/aayt/csgo/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"dg-permalink":"aayt/csgo","permalink":"/aayt/csgo/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # 精彩时刻
